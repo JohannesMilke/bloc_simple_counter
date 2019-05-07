@@ -1,6 +1,6 @@
 # Bloc Simple Counter
 
-A simple counter Flutter app which makes usage of the BloC architecture.
+A simple counter Flutter app which makes use of the BloC architecture.
 
 Twitter: [@JohannesMilke](https://twitter.com/JohannesMilke "Twitter Johannes Milke")
 
